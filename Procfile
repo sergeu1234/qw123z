@@ -1,1 +1,1 @@
-pweb: gunicorn wert.wsgi
+pweb: gunicorn wert.wsgi --log-file -
