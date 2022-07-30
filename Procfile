@@ -1,1 +1,1 @@
-web: gunicorn wert.wsgi
+pweb: gunicorn wert.wsgi
